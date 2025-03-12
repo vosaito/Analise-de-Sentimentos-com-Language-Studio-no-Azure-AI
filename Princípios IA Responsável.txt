@@ -1,0 +1,20 @@
+	Princípios IA Responsável
+
+	Imparcialidade
+O preconceito pode afetar os resultados. Tomar uma parte de qualquer assunto, pode influenciar os resultados e decisões.
+
+	Confiabilidade e segurança
+Erros podem causar danos de qualquer tipo. Acidentes, perda de dinheiro, entre outros.
+Máquinas rôbos e veículos autônomos podem causar acidentes.
+
+	Privacidade e segurança
+Dados privados podem ser expostos. Dados bancários, informações médicas, dados pessoais...
+
+	Inclusão
+As soluções podem não funcionar para todos. Ex: um aplicativo pode não fornecer saída de áudio para usuário com deficiência auditiva
+
+	Transparência
+Os usuários devem confiar em um sistema complexo.
+
+	Responsabilidade
+Quem é responsável pelas decisões baseadas na IA?

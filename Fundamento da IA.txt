@@ -1,0 +1,26 @@
+	Conceitos básicos no Azure AI
+
+	IA
+Prever resultados e reconhecer padrões com base em dados históricos
+Extrair informações de fontes para obter conhecimento
+Compreender a linguagem (natutal) e participar de conservas
+Reconhecer eventos anormais e tomar decisões
+Interpretar informações visuais
+
+	Machine Learning
+Modelo preditivo baseado em dados e estatísticas. Dados fornecidos, dados da internet, históricos.
+
+	Visão Computacional
+Capacidade da IA para interpretar o mundo visualmente por meio de câmeras, vídeos e imagens.
+
+	Processamento de linguagem natural
+Capacidade da IA para que um computador interprete a linguagem escrita ou falada e retorne uma resposta adequadamente
+
+	Inteligência de Documentos
+Capacidade da IA de gerenciar, processar e utilizar grandes quantidades de dados encontrados em formulários e documentos
+
+	Mineração de conhecimento
+Capacidade da IA para extrair informações em grandes quantidades de dados muitas vezes não estruturados para criar uma armazenamento de conhecimento pesquisável.
+
+	IA Generativa
+Recurso da IA que "imita" o comportamento humano. Capacidade de criar conteúdos originais, que podem ser frases, imagens, códigos e muito mais.

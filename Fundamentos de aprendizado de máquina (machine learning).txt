@@ -1,0 +1,22 @@
+	Fundamentos de aprendizado de máquina
+
+Tipos de aprendizados
+- Aprendizado supervisionado: Os dados incluem rótulos conhecidos
+	Dentro do aprendizado supervisionado:
+		Regressão: O rótulo é um valor número
+			Preveja o número de sorvetes vendidos com base no dia, estação e clima
+		Classificação: Rótulo é uma categorização (ou classe)
+			Classificação Binária: rótulo é ou não é uma classe
+				Preve se um paciente corre risco de diabetes com base em dados clínicos
+			Classificação multiclasse: rótulo é uma das multiplas classes
+				Preve a espécie de um pinguim com base em suas medidas
+
+- Aprendizado não supervisionado: Os dados não estão rotulados.
+	Classificação: Rótulo é uma categorização (ou classe)
+		Separa as plantas em grupos com base em características comuns
+
+
+Aprendizado profunda (Rede neural artificial)
+Parecido com a rede neural humana, há uma rede de neurônios. Cada neurônii é uma função que opera com um valor de entrada (x) e um peso (w).
+A função é envolvida em uma função de ativação que determina se a saída deve ser ou não transmitida.
+Exemplo de aprendizado profunda: Azure Machine Learning

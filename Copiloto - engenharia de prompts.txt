@@ -1,0 +1,15 @@
+	Copilotos (Agentes)
+São agentes integrados em aplicativos que auxiliam nas atividades do cotidiano / rotinas. Também podem ser assistentes virtuais que informam o usuário sobre determinados assuntos.
+São criados a partir de prompts que orientam o agente nos processos e consultas para retornar as  informações desejadas.
+Muito usados para auxiliar os desenvolvedores para construções/estruturação dos códigos de programação, podendo checar, refatorar, melhorar o código.
+Nas empresas, são comumente utilizados para aumentar a produtividade, auxiliando em atividades rotineiras e repetitivas, e com insights, analisando dados e mostrando padrões que podem não ser facilmente perceptíveis.
+Para apresentações, podem gerar figuras e imagens que podem mostrar exatamente o que quer ilustrar, o que pode ser difícil de encontrar na web.
+
+
+
+	Engenharia de prompts
+Aprimoramento de prompts - saber fazer as perguntas à IA.
+
+- Obter conclusões mais úteis sendo explicito sobre o tipo de resposta que deseja.
+- É possível fornecer exemplos de respostas para a IA, assim ela pode se basear nele para formatar seu resultado.
+- É possível fornecer informações para ele considerar ou trabalhar, para dar o retorno que deseja

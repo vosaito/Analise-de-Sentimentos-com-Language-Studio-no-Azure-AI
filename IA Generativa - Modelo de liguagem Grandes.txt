@@ -1,0 +1,35 @@
+	IA Generativa
+
+Criação de conteúdo originado por IA baseado em fontes de conhecimentos.
+
+Há 3 tipos de retornos do IA Generativa:
+- Geração de linguagem natural
+- Geração de código
+- Geração de imagem
+
+
+
+	Modelos de Linguagem Grande (LLM)
+Linguagens utilizadas para alimentar aplicativos de IA. Essas linguagem são um tipo especializados de modelo de machine learning que pode ser usado para executar tarefas de PLN (processamento de liguagem natural)
+
+Tipos de modelos de linguagem:
+- Transformador
+
+
+	Modelo transformador
+Consiste em dois componentes pricipais ou blocos.
+Bloco codificador - cria representações semânticas do vocabulário de treinamento
+Bloco decodificador - gera novas sequências de liguagem
+Ex: Sugestão de palavras, autocompleting
+
+O texto é tokenizado - cada palavra ou frase é identificado com um token número exclusivo
+Inserções (valores de vetor com várias dimensões) são atribuídas aos tokens
+As camadas de atenção examinam cada token e determinam valores incorporados que refletem os relacionamentos semânticos entre os token , avaliando as probabilidades de cada palavra vir na sequência das outras.
+Decodificador, essas relações são usadas para prever a sequência mais provável de tokens.
+
+Treinamento de um modelo transformador
+Etapa 1 (tokenização): Particionar o texto de treinamento em tokens, cada palavra recebe um número/código único
+Etapa 2 (Inserções/incorporações): As relações entre tokens detectados na primeira etapa são capturadas como vetores, conhecidos como inserções.
+Etapa 3 (Atenção): Capture a força das relações entre tokens usando técnica de atenção, verifica com base nos tokens anterior o(s) token(s) mais provável de ser o próximo da sequência.
+
+Esse treinamento é feito de constantemente e simultaneamente em um ciclo sem fim. Ele está constantemente fazendo as 3 etapas, aprendendo, corelacionando e prevendo os tokens sem parar.

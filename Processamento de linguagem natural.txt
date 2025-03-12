@@ -1,0 +1,20 @@
+	Processamento de linguagem natural
+
+
+O texto é pre processado (tokenização) para posterior treinamento.
+Depois disso, ele faz diversos outros processos:
+- Análise de texto: Verifica todos os elementos do texto e classifica todas as palavras: datas, objetos, lugares, entre outros... Reconhecimento de entidades nomeadas
+- Mineração de opinão (reconhecimento de sentimento): verifica o tom e termos para detectar o humor/sentimento que o usuário escreveu aquele texto. Faz análise/pesquisa de mercados
+- Tradução automática: facilita a intercomunicação entres lugares/culturas, personalizando as palavras conforme região/país.
+- IA Conversacional: retorno da IA para o usuário, fazendo com o que responda como se fosse uma pessoa falando/escrevendo.
+
+
+
+	Processamento de linguagem natural
+Reconhecimento de entidades nomeadas (REN): Entidades são tipos de dados que correspondem à uma determinada categoria/classe, ex: data , local, evento, ação, objeto. Essas entidades devem estar configuradas para serem reconhecidas.
+
+Detecção de PII e PHI: Detecção de dados pessoais de contatos e de saúde.
+
+Detecção de idioma: Detectar o idioma que está o texto/fala.
+
+Análise de sentimentos: Detectar o humor/sentimento com base no tom e termos utilizados no texto/fala.
